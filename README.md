@@ -19,14 +19,10 @@
 </p>
 
 ## Skills
-- [📚🌐] Experience with Javascript, HTML, C++, C#, Visual Basic (.NET), Lua  
-- [🖼️🥰] **UI/UX** design  
-- [🕹️🛠️] **Game** development *(R🟥blox Platform)*  
+- [📚🌐] Experience with Javascript, HTML, C++, C#, Visual Basic (.NET), Lua
 
 ### Languages
-![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
