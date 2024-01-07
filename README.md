@@ -19,7 +19,7 @@
 </p>
 
 ## Skills
-- [📚🌐] Experience with Javascript, HTML, C++, C#, Visual Basic (.NET), Lua
+- [📚🌐] Experience with Javascript, HTML, C++, C#, Visual Basic (.NET), Lua (Always Lua)
 
 ### Languages
 ![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
