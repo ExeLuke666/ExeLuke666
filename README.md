@@ -1,10 +1,3 @@
-<h2 align="center">Stats</h2>
-<a href="https://github.com/slow">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ExeLuke666" alt="Profile Views Count">
-  </p>
-</a>
-
 <h1 align="center">hey there!</h1>
 <p align="center">
   <a href="https://discord.gg/2fWz8ayAcb">
