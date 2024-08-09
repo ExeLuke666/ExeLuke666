@@ -34,7 +34,7 @@ The tools, editors and operating systems I use for my works
 <br />
 <br />
 <br/>
-<h2 align="center">profile views</h1>
+<h2 align="center">profile views & most used languages</h1>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=ExeLuke666" alt="Luke" /> </p>
 <br>
 
