@@ -5,24 +5,47 @@
   </p>
 </a>
 
+<h1 align="center">hey there!</h1>
 <p align="center">
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/?username=ExeLuke666&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExeLuke666&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
-    </td>
-  </tr>
-</table>
-</p>
+  <a href="https://discord.gg/2fWz8ayAcb">
+  <img align="center" alt="Contact Luke" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<br />
+  <br />
 
-## Skills
-- [📚🌐] Experience with Javascript, HTML, C++, C#, Visual Basic (.NET), Lua (Always Lua)
+<img align="center" alt="Contact Luke" src="https://discord.c99.nl/widget/theme-3/306759697812160513.png" />
 
-### Languages
-![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
+Hello! I'm Luke, an aspiring dude with love for programming and self taught knowledge about it.<br />
+
+The languages I use
+
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"></code>
+
+
+
+The tools, editors and operating systems I use for my works
+
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+
+</div>
+
+<br />
+<br />
+<br/>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ExeLuke666" alt="Luke" /> </p>
+<br>
+
+  <br>
+ <p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ExeLuke666&layout=compact&langs_count=8&theme=gotham" alt="ExeLuke666" /> </p>
+<!---
+this indexing sucks
+-->
