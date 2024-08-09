@@ -8,12 +8,12 @@
 <h1 align="center">hey there!</h1>
 <p align="center">
   <a href="https://discord.gg/2fWz8ayAcb">
-  <img align="center" alt="Contact Luke" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="center" alt="Contact Luke" width="30px" src="https://raw.githubusercontent.com/Debuggingss/discord-badges/def6fee9f7fcecb4a46e33f83fa0f98b1223a412/svgs/88d4f11bee9ea34fee59973b33353da0.svg" />
 </a>
 <br />
   <br />
 
-<img align="center" alt="Contact Luke" src="https://discord.c99.nl/widget/theme-3/306759697812160513.png" />
+<img align="center" alt="Contact Luke" src="https://discord.c99.nl/widget/theme-2/977025196093476914.png" />
 
 <div align="center">
 Hello! I'm Luke, an aspiring dude with love for programming and self taught knowledge about it.<br />
