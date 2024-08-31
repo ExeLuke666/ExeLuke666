@@ -20,7 +20,7 @@ The languages I use
 
 
 
-The tools, editors and operating systems I use for my works
+The tools, editors and operating systems I use for my work
 
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></code>
