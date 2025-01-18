@@ -1,4 +1,4 @@
-<h1 align="center">✨ Welcome to Luke's GitHub! ✨</h1>
+<h1 align="center">👋 Hey there, I'm Luke!</h1>
 
 <p align="center">
   <a href="https://discord.gg/2fWz8ayAcb">
@@ -18,7 +18,6 @@
     Hi there! I'm <strong>Luke</strong>, a passionate self-taught programmer exploring the exciting world of coding. 
     I thrive on solving problems, building tools, and learning new technologies to turn ideas into reality.
   </p>
-  <p>✨ Fun Fact: I started coding to bring my creative ideas to life, and now it's my favorite hobby! 🚀</p>
 </div>
 
 ---
