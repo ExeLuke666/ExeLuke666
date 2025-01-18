@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Luke!</h1>
+<h1 align="center">✨ Welcome to Luke's GitHub! ✨</h1>
 
 <p align="center">
   <a href="https://discord.gg/2fWz8ayAcb">
@@ -14,7 +14,11 @@
 
 <div align="center">
   <h2>🌟 About Me</h2>
-  <p>Hello! I'm Luke, an aspiring programmer with a passion for learning and building cool things. I'm self-taught and love exploring new technologies and languages.</p>
+  <p>
+    Hi there! I'm <strong>Luke</strong>, a passionate self-taught programmer exploring the exciting world of coding. 
+    I thrive on solving problems, building tools, and learning new technologies to turn ideas into reality.
+  </p>
+  <p>✨ Fun Fact: I started coding to bring my creative ideas to life, and now it's my favorite hobby! 🚀</p>
 </div>
 
 ---
@@ -26,13 +30,16 @@
     <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" /></code>
     <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="Discord.js" /></code>
     <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" /></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" /></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" /></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" /></code>
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <h2>🛠 Tools & Platforms</h2>
+  <h2>🛠 Tools, Platforms & OS</h2>
   <p>
     <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" /></code>
     <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" /></code>
@@ -40,23 +47,39 @@
     <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" /></code>
     <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" /></code>
     <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" /></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" /></code>
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <h2>📊 Profile Stats</h2>
+  <h2>📈 GitHub Stats</h2>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=ExeLuke666&color=blue" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=ExeLuke666&color=brightgreen" alt="Profile Views" />
   </p>
   <p>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ExeLuke666&layout=compact&langs_count=8&theme=gotham" alt="Most Used Languages" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ExeLuke666&layout=compact&langs_count=8&theme=tokyonight" alt="Most Used Languages" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=ExeLuke666&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ExeLuke666&theme=tokyonight" alt="GitHub Streak" />
   </p>
 </div>
 
 ---
 
-<p align="center">
-  🚀 *Thanks for visiting! Feel free to connect with me or check out my projects.* 🌟
-</p>
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+  <p>
+    <a href="https://discord.gg/2fWz8ayAcb"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/ExeLuke666"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
+</div>
+
+---
+
+<p align="center">✨ Thanks for visiting my profile! Feel free to explore my repositories and connect with me. Happy coding! 🚀</p>
