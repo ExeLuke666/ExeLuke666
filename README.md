@@ -74,11 +74,11 @@
   <h2>🌐 Connect with Me</h2>
   <p>
     <a href="https://discord.gg/2fWz8ayAcb"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:me@lukedevelopment.xyz"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/ExeLuke666"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile! Feel free to explore my repositories and connect with me. Happy coding! 🚀</p>
+<p align="center">Thanks for visiting my profile!</p>
