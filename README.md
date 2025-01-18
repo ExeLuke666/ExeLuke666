@@ -71,7 +71,7 @@
 ---
 
 <div align="center">
-  <h2>🌐 Connect with Me</h2>
+  <h2>🌐 Get in touch with me</h2>
   <p>
     <a href="https://discord.gg/2fWz8ayAcb"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="mailto:me@lukedevelopment.xyz"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
