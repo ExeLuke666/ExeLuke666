@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://discord.gg/2fWz8ayAcb">
-    <img alt="Contact Luke on Discord" width="30px" src="https://raw.githubusercontent.com/Debuggingss/discord-badges/def6fee9f7fcecb4a46e33f83fa0f98b1223a412/svgs/88d4f11bee9ea34fee59973b33353da0.svg" />
+    <img alt="Contact Luke on Discord" width="30px" src="https://api.lukedevelopment.xyz/discord/invite/f5TpHyFx58" />
   </a>
 </p>
 
