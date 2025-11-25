@@ -1,80 +1,49 @@
-<h1 align="center">👋 Hey there, I'm Luke!</h1>
+### 📠 [PROJECTPHIL][Website] 📠
 
-<p align="center">
-  <a href="https://discord.gg/2fWz8ayAcb">
-    <img alt="Contact Luke on Discord" width="30px" src="https://api.lukedevelopment.xyz/discord/invite/f5TpHyFx58?size=1024" />
-  </a>
-</p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/ExeLuke666?label=Follow)](https://twitter.com/intent/follow?screen_name=ExeLuke666)
+[![GitHub followers](https://img.shields.io/github/followers/ExeLuke666?label=Follow&style=social)](https://github.com/ExeLuke666)
+[![Discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white)](https://discord.gg/zJg73wwPdQ)
+[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=google-chrome&logoColor=white)](https://lukedevelopment.xyz)
+![](https://komarev.com/ghpvc/?username=ExeLuke666&label=Views)
 
----
+<br>
 
-<div align="center">
-  <h2>🌟 About Me</h2>
-  <p>
-    Hi there! I'm <strong>Luke</strong>, a passionate self-taught programmer exploring the exciting world of coding. 
-    I thrive on solving problems, building tools, and learning new technologies to turn ideas into reality.
-  </p>
-</div>
+![status](https://api.statusbadges.me/badge/status/1155551194337521726?simple=true)
+![vscode](https://api.statusbadges.me/badge/vscode/1155551194337521726)
+[![spotify](https://api.statusbadges.me/badge/spotify/1155551194337521726)](https://api.statusbadges.me/openspotify/1155551194337521726)
 
----
+*Hey, I'm Luke — the creator of Luke Development, a US-based Full Stack Developer with a passion for open source, Discord bots, automation tools, and scalable backend infrastructure. I've been building since I was young and turned my passion into a full platform, community, and store.*
 
-<div align="center">
-  <h2>💻 Languages & Technologies</h2>
-  <p>
-    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" /></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" /></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="Discord.js" /></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" /></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" /></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" /></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" /></code>
-  </p>
-</div>
+*Luke Development is all about pushing innovation, supporting devs, and creating tools and services that actually help people.*
 
----
+*Business & Store Contact: me@lukedevelopment.xyz*
+<br />
+<a href="https://discord.gg/zJg73wwPdQ" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.lukedevelopment.xyz/discord/invite/wyxmKPyWGG">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.lukedevelopment.xyz/discord/invite/wyxmKPyWGG/light">
+    <img alt="Discord Invite" src="https://api.lukedevelopment.xyz/discord/invite/wyxmKPyWGG">
+  </picture>
+</a>
 
-<div align="center">
-  <h2>🛠 Tools, Platforms & OS</h2>
-  <p>
-    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" /></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" /></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" /></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" /></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" /></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" /></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" /></code>
-  </p>
-</div>
+<br />
 
----
+## 🔧 Technologies & Tools
 
-<div align="center">
-  <h2>📈 GitHub Stats</h2>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=ExeLuke666&color=brightgreen" alt="Profile Views" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ExeLuke666&layout=compact&langs_count=8&theme=tokyonight" alt="Most Used Languages" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ExeLuke666&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://streak-stats.demolab.com?user=ExeLuke666&theme=tokyonight" alt="GitHub Streak" />
-  </p>
-</div>
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 
----
-
-<div align="center">
-  <h2>🌐 Get in touch with me</h2>
-  <p>
-    <a href="https://discord.gg/2fWz8ayAcb"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href="mailto:me@lukedevelopment.xyz"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/ExeLuke666"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </p>
-</div>
-
----
-
-<p align="center">Thanks for visiting my profile!</p>
+<!--END_SECTION:waka-->
+[Website]: https://lukedevelopment.xyz
+[Twitter]: https://twitter.com/Perez100Rblx
+[Discord]: https://discord.gg/wyxmKPyWGG
