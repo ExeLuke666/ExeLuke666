@@ -2,12 +2,8 @@
 
 <p align="center">
   <a href="https://discord.gg/2fWz8ayAcb">
-    <img alt="Contact Luke on Discord" width="30px" src="https://api.lukedevelopment.xyz/discord/invite/f5TpHyFx58" />
+    <img alt="Contact Luke on Discord" width="30px" src="https://api.lukedevelopment.xyz/discord/invite/f5TpHyFx58?size=1024" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/977025196093476914.png" alt="Discord Widget" />
 </p>
 
 ---
