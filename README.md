@@ -11,6 +11,7 @@
 ![status](https://api.statusbadges.me/badge/status/977025196093476914?simple=true)
 ![vscode](https://api.statusbadges.me/badge/vscode/977025196093476914)
 [![spotify](https://api.statusbadges.me/badge/spotify/977025196093476914)](https://api.statusbadges.me/openspotify/977025196093476914)
+![playing](https://api.statusbadges.me/badge/playing/977025196093476914)
 
 *Hey, I'm Luke — the creator of Luke Development, a US-based Full Stack Developer with a passion for open source, Discord bots, automation tools, and scalable backend infrastructure. I've been building since I was young and turned my passion into a full platform, community, and store.*
 
